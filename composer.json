@@ -9,6 +9,9 @@
             "name": "Melvin Achterhuis"
         }
     ],
+    "require": {
+        "shopware/core": "6.4.*"
+    },
     "autoload": {
         "psr-4": {
             "Melv\\ZeroMarginBlocks\\": "src/"
