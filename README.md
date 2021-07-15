@@ -2,6 +2,10 @@
 
 Removes the frustrating 20px default margin on the default Shopware blocks
 
+
+https://user-images.githubusercontent.com/26538915/125843044-632097c3-5c1f-48c9-93bc-a2d20f921c7c.mp4
+
+
 ## Requirements
 
 | Version 	| Requirements               	|
