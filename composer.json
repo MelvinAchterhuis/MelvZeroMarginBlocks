@@ -1,7 +1,7 @@
 {
     "name": "melvinachterhuis/zero-margin-blocks-shopware6-plugin",
     "description": "Replaces default 20px margin with 0",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "type": "shopware-platform-plugin",
     "license": "MIT",
     "authors": [
