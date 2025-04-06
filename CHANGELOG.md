@@ -1,3 +1,9 @@
+## [4.0.0] - 06-04-2025
+- 6.7 compatibility
+
+## [3.0.0] - 29-05-2024
+- 6.6 compatibility
+
 ## [2.0.1] - 11-01-2024
 - Simplify default value handling
 - Removed Javascript dev source map
