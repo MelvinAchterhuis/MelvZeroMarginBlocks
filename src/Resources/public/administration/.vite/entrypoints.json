@@ -1,0 +1,23 @@
+{
+  "base": "/bundles/melvzeromarginblocks/administration/",
+  "entryPoints": {
+    "melv-zero-margin-blocks": {
+      "css": [],
+      "dynamic": [],
+      "js": [
+        "/bundles/melvzeromarginblocks/administration/assets/melv-zero-margin-blocks-CHAZFZi1.js"
+      ],
+      "legacy": false,
+      "preload": []
+    }
+  },
+  "legacy": false,
+  "metadatas": {},
+  "version": [
+    "7.1.0",
+    7,
+    1,
+    0
+  ],
+  "viteServer": null
+}
