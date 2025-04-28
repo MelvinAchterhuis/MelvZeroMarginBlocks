@@ -10,7 +10,10 @@ https://user-images.githubusercontent.com/26538915/125843044-632097c3-5c1f-48c9-
 
 | Version 	| Requirements               	|
 |---------	|----------------------------	|
-| 1.0.0    	| Shopware 6.4 >=	            |
+| 1.0.0    	| Shopware 6.4	              |
+| 2.0.0    	| Shopware 6.5	              |
+| 3.0.0    	| Shopware 6.6  	            |
+| 4.0.0    	| Shopware 6.7  	            |
 
 ## License
 
