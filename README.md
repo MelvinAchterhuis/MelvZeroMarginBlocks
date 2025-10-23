@@ -15,6 +15,13 @@ https://user-images.githubusercontent.com/26538915/125843044-632097c3-5c1f-48c9-
 | 3.0.0    	| Shopware 6.6  	            |
 | 4.0.0    	| Shopware 6.7  	            |
 
+## Installation
+Install via Composer:
+
+`composer require melvinachterhuis/zero-margin-blocks-shopware6-plugin`
+
+Or download the correct [.zip file](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks/releases) that corresponds with your Shopware version and upload in the admin.
+
 ## License
 
 Plugin's Icon by [flaticon](https://www.flaticon.com).
